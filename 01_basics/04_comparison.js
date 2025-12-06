@@ -25,3 +25,27 @@ console.log("2" === 2);
 
 
 
+// *********************************************************************************
+// STACK AND HEAP
+
+let myYoutubename = "Gaurikabhatt27"
+let anothername = myYoutubename
+
+anothername = "chaiaurcode"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+
+let user = {
+    email : "user@gmail.com",
+    upi : "user123@ybl"
+}
+
+
+userTwo = user
+userTwo.email = "github@google.com"
+
+console.log(user.email);
+console.log(userTwo.email);
+
