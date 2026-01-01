@@ -76,8 +76,23 @@ const {courseInstructor} = course
 
 console.log(courseInstructor);
 
-const navbar = () => {
+// const navbar = ({company}) => {
 
-}
+// }
 
-navbar(company = "Gaurika") 
+// navbar(company = "Gaurika") 
+
+
+
+// {
+//     "name": "Gaurika",
+//     "coursename": "JS in Hindi",
+//     "price": "free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
+
