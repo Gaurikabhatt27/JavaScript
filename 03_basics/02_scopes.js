@@ -17,4 +17,5 @@ console.log(a);
 
 
 // .........
-// scopee!!
+// scopee!!.
+// ..
