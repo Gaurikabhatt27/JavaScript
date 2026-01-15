@@ -65,3 +65,5 @@ console.log(addTwo(5))
 // ...
 // SCOPESSSSS!!!
 // .
+
+// scopes..
