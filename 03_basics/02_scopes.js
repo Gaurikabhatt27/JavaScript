@@ -58,14 +58,3 @@ console.log(addTwo(5))
 
 // Variables in Javascript are very powerful and can hold anything. Like: Json values, functions, etc..
 
-// Scopes concept!!!
-
-// ......
-
-// ...
-// SCOPESSSSS!!!
-// .
-
-// scopes..
-
-// sc
