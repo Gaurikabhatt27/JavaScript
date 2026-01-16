@@ -67,3 +67,5 @@ console.log(addTwo(5))
 // .
 
 // scopes..
+
+// sc
