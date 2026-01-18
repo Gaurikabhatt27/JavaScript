@@ -12,3 +12,5 @@
     // unnamed iife
     console.log(`DB connected TWO ${name}`);
 })('Gaurika')
+
+// iife
