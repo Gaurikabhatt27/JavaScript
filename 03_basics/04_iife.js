@@ -14,3 +14,5 @@
 })('Gaurika')
 
 // iife
+
+// Javascirpt Execution Context
