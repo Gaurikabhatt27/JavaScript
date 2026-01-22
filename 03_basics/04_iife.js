@@ -12,9 +12,3 @@
     // unnamed iife
     console.log(`DB connected TWO ${name}`);
 })('Gaurika')
-
-// iife
-
-// Javascirpt Execution Context
-// .////mmm
-// fghj
