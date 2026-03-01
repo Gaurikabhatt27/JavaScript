@@ -43,3 +43,4 @@ const iceTeaPrice = 100
 iceTeaPrice <= 80 ? console.log("Less than 80"): console.log("More than 80") ;
 
 // truthy values
+// truthy
