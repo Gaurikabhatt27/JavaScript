@@ -82,8 +82,6 @@ console.log(courseInstructor);
 
 // navbar(company = "Gaurika") 
 
-
-
 // {
 //     "name": "Gaurika",
 //     "coursename": "JS in Hindi",
